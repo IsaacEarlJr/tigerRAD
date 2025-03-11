@@ -7,7 +7,7 @@
 # calculate Migration Traffic Rates (MTR) for avian studies. It utilizes the bioRad package
 # and AWS CLI for data access. The workflow is structured into clearly defined steps:
 #
-#
+# Citaion: Dokter AM, Desmet P, Spaaks JH, Van Hoey S, Veen L, Verlinden L, Nilsson C, Haase G, Leijnse H, Farnsworth A, Bouten W, Shamoun-Baranes S (2019) bioRad: biological analysis and visualization of weather radar data. Ecography 42: 852-860. https://doi.org/10.1111/ecog.04028
 # INDEX:
 # ----------------------------------------
 # 1. Load Packages
